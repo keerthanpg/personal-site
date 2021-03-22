@@ -1,5 +1,5 @@
 baseURL = "https://www.keerthanapg.com"
-title = "johndoe"
+title = "keerthanapg"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -10,13 +10,13 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "John Doe's personal website"
+author = "Keerthana Gopalakrishnan"
+description = "Keerthana's personal website"
 keywords = "blog,developer,personal"
-info = "Full Stack DevOps and Magician"
+info = "Robotics and Machine Learning Engineer"
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
+#gravatar = "keerthanpg@gmail.com"
+footerContent = "You miss 100% of the shots you don’t take – Wayne Gretzky"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -30,7 +30,7 @@ rtl = false
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "dark"
+colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
@@ -73,7 +73,7 @@ serverURL = "analytics.example.com"
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 [params.googleTagManager]
-id = "gid"
+id = "G-SR65R0C5W7"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -102,39 +102,37 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/keerthanpg/"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
+name = "Instagram"
+icon = "fa fa-instagram"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://instagram.com/jomarch121/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/keerthanpg/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/keerthanapg/"
+
+[[params.social]]
+name = "Facebook"
+icon = "fa fa-facebook"
+weight = 2
+url = "https://facebook.com/keertygw/"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-medium"
 weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "https://medium.com/@keerthanagopalakrishnan"
 
 [languages.en]
 languageName = "English"
@@ -144,48 +142,23 @@ name = "About"
 weight = 1
 url = "about/"
 
+
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Blog"
 weight = 3
-url = "https://luizdepra.dev"
+url = "https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE"
 
 [[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
-[languages.pt-br]
-languageName = "Português"
-title = "João Ninguém"
-
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "Book Reviews"
 weight = 3
-url = "https://luizdepra.dev"
+url = "https://www.goodreads.com/review/list/18625694-keerthana-gopalakrishnan?order=d&sort=added&view=reviews"
 
-[[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 5
-url = "contact/"
+[[languages.en.menu.main]]
+name = "Photography"
+weight = 3
+url = "https://500px.com/p/keerthanpg?view=photos"
