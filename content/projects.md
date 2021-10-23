@@ -4,7 +4,8 @@ date: 2021-10-13T17:37:56-07:00
 draft: true
 ---
 ### Self Driving Data Visualization
-- Data visualization for status quo on the race to build the self driving car : [2020](https://keerthanapg.com/stop-the-trolley/), [2019](https://keerthanapg.com/stop-the-trolley/2019/)
+- Data visualization for status quo on the race to build the self driving car.
+- Demos - [2020](https://keerthanapg.com/stop-the-trolley/), [2019](https://keerthanapg.com/stop-the-trolley/2019/)
 - [Code](https://github.com/keerthanpg/stop-the-trolley)
 
 
