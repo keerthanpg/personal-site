@@ -156,7 +156,7 @@ url = "https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D
 [[languages.en.menu.main]]
 name = "Book Reviews"
 weight = 3
-url = "https://www.goodreads.com/review/list/18625694-keerthana-gopalakrishnan?order=d&sort=added&view=reviews"
+url = "bookreviews/"
 
 [[languages.en.menu.main]]
 name = "Photography"
