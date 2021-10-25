@@ -33,8 +33,9 @@ draft: true
 - [Code](https://github.com/keerthanpg/Hackathon_Vehicle_ID)
 
 
-### Decriminalising secton 377
-- Petitioned against section 377 of the Indian constitution in the Supreme Court leading to historic verdict decriminalizing alternative sexuality in India
+### Decriminalising LGBTQ existence in India
+- Prior to September 2018, being LGBTQ made one an automatic criminal given that "unnatural sex" was felonious
+- Was a petitioner in the legal challenge against section 377 of the Indian constitution in the Supreme Court leading to historic verdict decriminalizing alternative sexuality in India
 - Media Coverage : [NDTV National Interview](https://www.youtube.com/watch?v=iq8T6rfEtCU), [Print](https://www.ndtv.com/india-news/iitians-go-to-top-court-demand-law-criminalising-gay-sex-be-scrapped-1851984)
 
 
