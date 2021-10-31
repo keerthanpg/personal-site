@@ -155,10 +155,10 @@ url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Book Reviews"
-weight = 3
+weight = 4
 url = "bookreviews/"
 
 [[languages.en.menu.main]]
 name = "Photography"
-weight = 3
+weight = 5
 url = "https://500px.com/p/keerthanpg?view=photos"
