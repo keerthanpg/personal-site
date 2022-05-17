@@ -162,3 +162,8 @@ url = "bookreviews/"
 name = "Photography"
 weight = 5
 url = "https://500px.com/p/keerthanpg?view=photos"
+
+[[languages.en.menu.main]]
+name=" Categories"
+weight= 6
+url= "categories/"
