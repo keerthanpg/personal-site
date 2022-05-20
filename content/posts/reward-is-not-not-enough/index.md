@@ -2,6 +2,8 @@
 title: "Reward is Not Not Enough: AGI and Reward Maximization"
 date: 2022-03-10T17:37:56-07:00
 draft: false
+
+Categories: ["Random"]
 ---
 
 So I chanced by this post on LessWrong titled ["Reward is Not Enough"](https://www.lesswrong.com/posts/frApEhpyKQAcFvbXJ/reward-is-not-enough). It is a rebuttal to the arguments presented in the paper ["Reward is Enough"](https://www.sciencedirect.com/science/article/pii/S0004370221000862?via%3Dihub) by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination. I think the post is somewhat ill-informed fear mongering. Here’s why:
