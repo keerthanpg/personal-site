@@ -6,6 +6,10 @@ draft: true
 ## Cal Newport
 ### My rating: 5/5
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 30%; float: right; padding-left: 2rem;"  src="../assets/deepwork.jpg" />
+{{< /rawhtml >}}
+
 Deep Work is a book about focusing. Given the barrage of distractions in today's world, ranging from push notifications, social media and the expectation of responding fast to emails and work group chats, it becomes harder to do the type of work that requires deep focus. 
 
 The first few chapters talk about what deep work is and part 2 is about a few tips to get there. 
