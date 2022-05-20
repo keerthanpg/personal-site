@@ -6,7 +6,9 @@ draft: false
 Categories: ["Cooking"]
 ---
 
-![](./Screenshot.jpeg)
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 50%;"  src="./Screenshot.jpeg" />
+{{< /rawhtml >}}
 
 Served with a side of boiled rice.
 
@@ -69,8 +71,10 @@ Served with a side of boiled rice.
 2.  Mix all the ingredients
 3.  Add chopped coriander leaves to garnish and serve!
 
-![](./Chana-1.jpeg)
-
-![](./Chana-2.jpeg)
-
-![](./Chana-3.jpeg)
+{{< rawhtml >}}
+<div style="display: flex; justify-content: space-evenly;">
+    <img class="special-img-class" style="height: 100%; width: 30%;"  src="./Chana-1.jpeg" />
+    <img class="special-img-class" style="height: 100%; width: 30%;"  src="./Chana-2.jpeg" />
+    <img class="special-img-class" style="height: 100%; width: 30%;"  src="./Chana-3.jpeg" />
+</div>
+{{< /rawhtml >}}
