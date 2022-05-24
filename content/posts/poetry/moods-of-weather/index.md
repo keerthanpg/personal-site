@@ -9,7 +9,7 @@ categories: ["Poem"]
 # Moods of Weather
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.jpg" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpg" />
 {{< /rawhtml >}}
 
 Shedding leaves and pretenses  

@@ -9,7 +9,7 @@ categories: ["Poem"]
 # Old and Young
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.jpeg" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpeg" />
 {{< /rawhtml >}}
 
 Hopping over puddles, in a little pink frock  

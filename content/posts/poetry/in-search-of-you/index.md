@@ -9,7 +9,7 @@ categories: ["Poem"]
 # In search of you
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.jpeg " />
+<img class="special-img-class" style="height: 100%; width: 50%; float: right; padding-left: 2rem;"  src="./image.jpeg " />
 {{< /rawhtml >}}
 
 From Google Images

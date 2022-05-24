@@ -9,7 +9,7 @@ categories: ["Poem"]
 # Why’d you prevail?
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.jpg" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpg" />
 {{< /rawhtml >}}
 
 The contours of your face  

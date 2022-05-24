@@ -9,7 +9,7 @@ categories: ["Poem"]
 # **Daybreak**
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./angel.gif " />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./angel.gif " />
 {{< /rawhtml >}}
 
 Tied up angel, wings battered  

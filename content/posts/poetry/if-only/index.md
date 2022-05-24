@@ -9,7 +9,7 @@ categories: ["Poem"]
 # If only
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.png" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.png" />
 {{< /rawhtml >}}
 
 Do I ever cross your mind?  
