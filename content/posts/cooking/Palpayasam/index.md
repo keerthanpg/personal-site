@@ -9,7 +9,7 @@ categories: ["Cooking"]
 # Palpayasam
 
 {{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./Palpayasam.jpeg" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./Palpayasam.jpeg " />
 {{< /rawhtml >}}
 
 This is a traditional Malayali desert.

@@ -8,11 +8,11 @@ categories: ["Cooking"]
 
 # Graduate Student Recipes: Quick and Easy Pasta
 
-{{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./pasta.gif" />
-{{< /rawhtml >}}
-
 Sharing successful tidbits from my reluctant adventures as a student cook. :)
+
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./pasta.gif " />
+{{< /rawhtml >}}
 
 Ingredients:
 

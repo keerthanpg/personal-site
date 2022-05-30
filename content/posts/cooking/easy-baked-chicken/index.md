@@ -10,6 +10,10 @@ categories: ["Cooking"]
 
 Preparation time- 35 minutes
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./chicken.jpeg " />
+{{< /rawhtml >}}
+
 What you need:
 
 1. Tender chicken breasts — 0.5 pounds
@@ -34,7 +38,3 @@ How to:
 8. Take it out, apply lime juice on both sides.
 9. Flip and bake for 12 more minutes until the center is cooked and tender.
 10. Serve hot :)
-
-{{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./chicken.jpeg" />
-{{< /rawhtml >}}

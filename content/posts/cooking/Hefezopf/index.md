@@ -28,9 +28,11 @@ Mix the flour, yeast, sugar, butter, baking soda and water to create a smooth do
 Co-cooking credits: Sarah Geiser
 
 {{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./Hefezoph.jpeg" />
-<img  style="height: 100%; width: 50%;"  src="./Hefezoph-1.jpeg" />
-<img  style="height: 100%; width: 50%;"  src="./Hefezoph-2.jpeg" />
-<img  style="height: 100%; width: 50%;"  src="./Hefezoph-3.jpeg" />
-<img  style="height: 100%; width: 50%;"  src="./Hefezoph-4.jpeg" />
+<div style="display: flex; justify-content: space-evenly;">
+    <img  style="height: 100%; width: 20%; padding: 0 5px;"  src="./Hefezoph.jpeg" />
+    <img  style="height: 100%; width: 20%; padding: 0 5px;"  src="./Hefezoph-1.jpeg" />
+    <img  style="height: 100%; width: 20%; padding: 0 5px;"  src="./Hefezoph-2.jpeg" />
+    <img  style="height: 100%; width: 20%; padding: 0 5px;"  src="./Hefezoph-3.jpeg" />
+    <img  style="height: 100%; width: 20%; padding: 0 5px;"  src="./Hefezoph-4.jpeg" />
+</div>
 {{< /rawhtml >}}

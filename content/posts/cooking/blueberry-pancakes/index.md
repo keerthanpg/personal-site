@@ -10,6 +10,10 @@ categories: ["Cooking"]
 
 Preparation time: 10 minutes
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./blueberry-pancakes.jpeg " />
+{{< /rawhtml >}}
+
 Ingredients:
 
 1. Blueberries(fresh/dried):150g
@@ -33,7 +37,3 @@ Tips:
 
 1. Add butter to batter to increase calorie content.
 2. Serve with fruit. :)
-
-{{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./blueberry-pancakes.jpeg" />
-{{< /rawhtml >}}

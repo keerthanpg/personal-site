@@ -10,6 +10,10 @@ categories: ["Cooking"]
 
 It’s healthy, tasty and complements well when you’re working on tough assignments :P
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./latte-tea.jpeg " />
+{{< /rawhtml >}}
+
 Ingredients(makes 2 cups):
 
 1. Water — 1 cup
@@ -26,10 +30,6 @@ Procedure:
 3. Let it boil for a minute. Add water to compensate for evaporation loss.
 4. Add the milk, wait until the mixture boils and then take it off the stove.
 5. Filter and serve!
-
-{{< rawhtml >}}
-<img  style="height: 100%; width: 50%;"  src="./latte-tea.jpeg" />
-{{< /rawhtml >}}
 
 Pro-tips:
 
