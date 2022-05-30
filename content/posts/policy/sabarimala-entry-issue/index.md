@@ -11,10 +11,11 @@ Categories: ["Policy"]
 .. and why this affects every Indian woman
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./sabarimala-2.jpeg" />
+<div style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./sabarimala-2.jpeg" />
+    Source: <a href="https://www.facebook.com/photo.php?fbid=1940526586040423&set=a.137234033036363&type=3&theater">12</a>
+</div>
 {{< /rawhtml >}}
-
-Source: [12]
 
 On September 28th, 2018, the Supreme Court of India ruled that women be granted entry at Sabarimala [6]. Among other things one should note:
 
@@ -29,10 +30,11 @@ When I was 14 and had then just became a menstruating woman, I remember standing
 Like all fights for women’s right this too shall be fought by women, against women.
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./sabarimala-1.png" />
+<div style="height: 100%; width: 45%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./sabarimala-1.png" />
+    Protest march in Pandalam. <a href="http://www.newindianexpress.com/states/kerala/2018/oct/02/kerala-hundreds-of-women-protest-sc-verdict-permitting-entry-for-women-of-all-ages-into-sabarimala-1880174.html">7</a>
+</div>
 {{< /rawhtml >}}
-
-Protest march in Pandalam. Image source: [7]
 
 The Sabarimala temple entry has sparked massive protests from certain devotees including many women who are #ReadyToWait apparently. By all means, go ahead. This judgement does not force them to go and they’re not content with waiting but instead aim to impose their sense of their worth of our gender on all of us. This directly affects you and I, because these women are marching to take away our rights, that if they succeed in being certified unfit to enter they’re also certifying us as impure. To be fair, they’re resisting change and trying to protect what is important to them but what if what is important is your instilled self-indignance? A perfect oppression they say is one where the oppressed willfully partakes in the oppression and that is exactly what our traditions have achieved here. The person that keeps me away from Pooja is my mother, that who checks before we visit temples is my mother and that who cries that daughters are lesser is too, my mother.
 

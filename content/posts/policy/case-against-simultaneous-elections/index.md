@@ -11,10 +11,11 @@ Categories: ["Policy"]
 During his address on National Law Day 2017, PM Narendra Modi reiterated the push for implementing simultaneous elections in India, where Lok Sabha elections and Assembly polls of all states will be synced to happen once in 5 years, citing administrative difficulties and cost to exchequer. In the later half of this year, there has been much discussion about it, with Nitish Kumar [2], the Vice President [3], the controversial India Foundation [4] and other allies in support and regional parties and the left voicing their protest [5]. It is speculated that this bill will come up in the winter session of the parliament, and might be the next big reform of Modi.
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./election.png" />
+<div style="height: 100%; width: 45%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./election.png" />
+    Cover of an India Foundation event on the same topic <a href="http://www.indiafoundation.in/symposium-on-one-nation-one-election/">12</a>
+</div>
 {{< /rawhtml >}}
-
-Cover of an India Foundation event on the same topic [12]
 
 Here’s why this is a bad idea for democracy:
 
@@ -26,10 +27,11 @@ Here’s why this is a bad idea for democracy:
 6.  As per the status quo, the EC already clubs together assembly elections that fall within a 6 month period, as a safeguard against one influencing the other.
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./election-2.jpeg" />
+<div style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./election-2.jpeg" />
+    Election-time populism?
+</div>
 {{< /rawhtml >}}
-
-Election-time populism?
 
 One reason why the NDA might be intent on passing this bill may be because it has shown a blatant apathy and neglect of duty towards the parliament and legislative procedures by significantly delaying the winter session of the parliament on account of Gujarat elections. The winter session, which generally commences in the third week of November and ends in the third week of December [9] has only started just now on December 15 [10]. Parliamentarians and the party seems to forget that running the parliament is their number 1 official job, for which the people of the country elected them.
 

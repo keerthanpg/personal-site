@@ -11,7 +11,7 @@ Categories: ["Policy"]
 “How strongly must one love knowing that you are unconvicted felons in the eyes of the law” — Menaka Guruswamy to bench of judges at Supreme Court, July 11 2018, during the hearing of petitions against section 377.
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./note-of-thanks.jpeg" />
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./note-of-thanks.jpeg " />
 {{< /rawhtml >}}
 
 On 6th September 2018, the Supreme Court of the largest democracy of the world struck down section 377, a colonial-era law that decriminalises homosexuality. In a unanimous verdict, with passionately written judgements, the law of our land acknowledges the naturality of alternative sexuality and holds hope for further strides for Indian queer community, namely, marriage and civic equality.
