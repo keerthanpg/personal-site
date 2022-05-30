@@ -9,10 +9,11 @@ Categories: ["Fiction"]
 # Rains, Thieves and Broken Dreams
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./rain.jpeg" />
+<div style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./rain.jpeg" />
+    Sourced from Google Images
+</div>
 {{< /rawhtml >}}
-
-Sourced from Google Images
 
 Unlike most of India that receives rains once, Kerala has two rounds of monsoons. The first of the season arrives in June when the advancing monsoons make bountiful our harvest and rake up our GDP numbers. The brief spell of unperturbed sunlight is broken by the retreating monsoons, popularly called ‘Thulavarsham’ for they occur in the month of October/’Thula’, taking their leave from the country having toured thoroughly. Palghat being the gap between the Nilgiris is a recipient of copious rains on both occasions, as much awaited winds arrive and depart through the mountains. One such rainy night, Unnimol, a thirteen year old girl in Palghat was peacefully asleep in her parents’ room after a stubborn protest to sleep with them. Her mother, Latha tried to subtly coerce her but had failed. ‘You can not sleep with your brother and his wife, you can’t with your mom and dad, but you can, with your grandmother or with your grandmother and grandfather’. Being a girl from rural Palghat, who didn’t even know what boyfriend meant at that age, Unnimol wasn’t going to take any of that.
 

@@ -13,10 +13,9 @@ This is an account of a dream I had today:
 It was set in the years of the freedom movement in India and World War 2. Agricultural production had failed due to drought, war, plunder and loot by the imperialists to aid war supplies. My grandmother and I, two patriots on the run, lived in a small and claustrophobic mud-walled shack with a tiny door and window, in the basement of a busy school building. It was stuffy and hot at noon when our door was knocked at by a visitor, a South Indian movie star, who was running from the British and seeking refuge. With a rapidly reducing stock of grain, we offered him a place, where he would sit long nights staring at the pendant he wore around his neck, a gift from his beloved before he got separated from her and was chased by the British.
 
 {{< rawhtml >}}
-
-<figure>
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./dream-1.jpg" />
-<figcaption>Image for illustration only; Source: Google Images</figcaption>
+<figure style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center">
+    <img class="special-img-class"  src="./dream-1.jpg" />
+    <figcaption>Image for illustration only; Source: Google Images</figcaption>
 </figure>
 {{< /rawhtml >}}
 
@@ -25,10 +24,9 @@ The rebels and freedom fighters that we were, my grandmother and I set out at ni
 Without having eaten for several days and on the run for being wanted, I blended into an elite neighbourhood where the rich lived and dined. It was amongst the few places free of police and inspection, and for a while they lost me. However, I couldnâ€™t afford any of the meals and found it morally degrading that that part of the country lived in aplomb even as others rotted away by the side in starvation. I hung around to be informed by the waiter that a certain friend of mine had been dining there since the last two days. I wait by the golden gates of the resort to meet him. He buys me food and offers refuge and I spend the next week at his house with him and his caretaker.
 
 {{< rawhtml >}}
-
-<figure>
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./dream-2.jpeg" />
-<figcaption>Image for illustration only; Source: Google Images</figcaption>
+<figure style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center">
+    <img class="special-img-class"  src="./dream-2.jpeg" />
+    <figcaption>Image for illustration only; Source: Google Images</figcaption>
 </figure>
 {{< /rawhtml >}}
 
@@ -37,10 +35,9 @@ At the end of the week, a BBC television piece(which is an error since BBC didnâ
 Spared from the scene, I escape among others in a boat, even as the blood from bodies ooze into water streams and reach the shores to be reunited with my grandmother. As we flee the scene of the chemical massacre, and navigate through abandoned passages, we enter the hustling town where business goes on as usual. The flag of East India Company floats amast as children sing the National Anthem for morning assembly.
 
 {{< rawhtml >}}
-
-<figure>
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./dream-3.jpg" />
-<figcaption>Image for illustration only; Source: Google Images</figcaption>
+<figure style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center">
+    <img class="special-img-class"  src="./dream-3.jpg" />
+    <figcaption>Image for illustration only; Source: Google Images</figcaption>
 </figure>
 {{< /rawhtml >}}
 
