@@ -17,7 +17,7 @@ Secondly, here's how I'd solve the three case studies with reward.
 How to make reward be greater when performance is poorer? No you don’t need two different networks with different reward signals. You can solve this “conflict” with a purely convex reward function where the derivative is higher farther away from goal state. That is, worse your singing, higher your reward with delta improvement in singing, hence practice becomes the action which maximizes future rewards.
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./convex_reward.png" />
+<img class="special-img-class" style="height: 100%; width: 50%; float: right; padding-left: 2rem;"  src="./convex_reward.png " />
 {{< /rawhtml >}}
 
 2. **The Hiking example**

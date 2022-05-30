@@ -7,5 +7,7 @@ Categories: ["Random"]
 ---
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./Self.jpeg" />
+<div style="height: 100%; width: 100%; text-align: center;">
+    <img style="display: inline-block; width: 50%;" src="./Self.jpeg" />
+</div>
 {{< /rawhtml >}}

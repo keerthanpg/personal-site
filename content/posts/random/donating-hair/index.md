@@ -10,6 +10,13 @@ Categories: ["Random"]
 
 This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.
 
+{{< rawhtml >}}
+<div style="height: 100%; width: 45%; float: right; padding-left: 2rem; text-align: center;">
+    <img src="./before-after.jpeg" />
+    Before - After
+</div>
+{{< /rawhtml >}}
+
 What to note:
 
 1.  Talk to others before you do it and be very sure you want to donate.
@@ -22,9 +29,3 @@ What to note:
 8.  Be prepared. In many cultures, long hair is an integral component of womanhood and parting with it comes with many questions.
 9.  It made me sad for days to lose my locks by choice so that makes me think how much harder it is for one to have no choice in losing all of one’s hair!
 10. Go for it and have fun donating! :)
-
-Before & After:
-
-{{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 50%;"  src="./before-after.jpeg" />
-{{< /rawhtml >}}
