@@ -8,6 +8,8 @@ Categories: ["Technology"]
 
 # When to use machine/deep learning to solve a problem?
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/when-to-use-machine-deep-learning-to-solve-a-problem-66a46abeb53e?source=---------0-----------------------)
+
 Sometimes it can save a lot of time to stop and think if ML/DL is indeed the right approach to solve your problem rather than realising that after throwing a ton of data at a network without getting anywhere and potentially being outperformed by a simple classical algorithm. Here’s where ML shines:
 
 1.  When the inputs are noisy
