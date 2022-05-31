@@ -8,6 +8,8 @@ Categories: ["Random"]
 
 # What to know before donating your hair?
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/what-to-know-before-donating-your-hair-2cd0af4662c8?source=---------1-----------------------)
+
 This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.
 
 {{< rawhtml >}}
