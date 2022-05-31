@@ -8,6 +8,8 @@ categories: ["Cooking"]
 
 # Graduate Student Recipes: Quick and Easy Pasta
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-quick-and-easy-pasta-1e6a2581620a?source=---------4-----------------------)
+
 Sharing successful tidbits from my reluctant adventures as a student cook. :)
 
 {{< rawhtml >}}

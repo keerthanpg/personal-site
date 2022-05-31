@@ -14,6 +14,8 @@ Served with a side of boiled rice.
 
 # Horse Gram Stir Fried:
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/quarantine-meals-horse-gram-kale-and-sprouts-salad-with-rice-34db9a8a87d5?source=---------0-----------------------)
+
 **Ingredients:**
 
 - Horse gram — 1 cup
@@ -72,6 +74,7 @@ Served with a side of boiled rice.
 3.  Add chopped coriander leaves to garnish and serve!
 
 {{< rawhtml >}}
+
 <div style="display: flex; justify-content: space-evenly;">
     <img class="special-img-class" style="height: 100%; width: 30%;"  src="./Chana-1.jpeg" />
     <img class="special-img-class" style="height: 100%; width: 30%;"  src="./Chana-2.jpeg" />

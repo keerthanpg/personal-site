@@ -8,6 +8,8 @@ categories: ["Cooking"]
 
 # Graduate Student Recipes: Easy Baked Chicken
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-simple-baked-chicken-a14e66f8faf0?source=---------5-----------------------)
+
 Preparation time- 35 minutes
 
 {{< rawhtml >}}
