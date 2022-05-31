@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # The Wall of Deceit
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/the-wall-of-deceit-c2cd32df2ecc?source=---------15-----------------------)
+
 Normal waves  
 Dampened by the sinking weights  
 of hurt over years  

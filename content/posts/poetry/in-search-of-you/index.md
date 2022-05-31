@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # In search of you
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/in-search-of-you-2a87238363d9?source=---------4-----------------------)
+
 {{< rawhtml >}}
 <img class="special-img-class" style="height: 100%; width: 50%; float: right; padding-left: 2rem;"  src="./image.jpeg " />
 {{< /rawhtml >}}

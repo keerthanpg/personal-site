@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # Draft of death
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/draft-of-death-86bf99c811?source=---------11-----------------------)
+
 A storm still raged in the midst of sea,  
 Where I had murdered you,  
 I lost you, far away  

@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # Why’d you prevail?
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/whyd-you-prevail-cd63630ce1ad?source=---------8-----------------------)
+
 {{< rawhtml >}}
 <img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpg" />
 {{< /rawhtml >}}

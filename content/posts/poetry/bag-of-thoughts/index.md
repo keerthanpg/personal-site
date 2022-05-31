@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # Bag of Thoughts
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/bag-of-thoughts-f81fe3c6e6ae?source=---------12-----------------------)
+
 A bag of thoughts we are  
 a tiny little star  
 sweltering pot  

@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # Breaking Free
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/breaking-free-7a61b5346772?source=---------9-----------------------)
+
 A dream hung on like raindrops on power cables overhead
 
 A whole gleamy world in itself, a fairytale world

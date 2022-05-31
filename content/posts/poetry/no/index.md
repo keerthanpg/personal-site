@@ -8,6 +8,8 @@ categories: ["Poem"]
 
 # No
 
+Originally Posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/no-7a45485f1b79?source=---------10-----------------------)
+
 No,  
 I will not be the decked up doll,  
 Meant to please  
