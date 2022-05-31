@@ -8,6 +8,8 @@ Categories: ["Fiction"]
 
 # An eventful dream
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/an-eventful-dream-58207d6f4253?source=---------1-----------------------)
+
 This is an account of a dream I had today:
 
 It was set in the years of the freedom movement in India and World War 2. Agricultural production had failed due to drought, war, plunder and loot by the imperialists to aid war supplies. My grandmother and I, two patriots on the run, lived in a small and claustrophobic mud-walled shack with a tiny door and window, in the basement of a busy school building. It was stuffy and hot at noon when our door was knocked at by a visitor, a South Indian movie star, who was running from the British and seeking refuge. With a rapidly reducing stock of grain, we offered him a place, where he would sit long nights staring at the pendant he wore around his neck, a gift from his beloved before he got separated from her and was chased by the British.
