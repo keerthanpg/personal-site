@@ -8,6 +8,8 @@ Categories: ["Policy"]
 
 # Much Ado about Nothing
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/much-ado-about-nothing-1c7e121f985c?source=---------2-----------------------)
+
 _A closer inspection of the ‘Rally for Rivers’ fanfare_
 
 Recently, Dr Rajendra Singh, who has spend decades working on community involvement in water management, winner of the Magsaysay Award and the Stockholm Water Prize, nicknamed the ‘Waterman of India’ called out the ‘Rally for Rivers’ movement. To quote, ‘this ‘Rally for Rivers’, is not for rivers. It is for the land, for money, for power, for fame and for name’ [1]

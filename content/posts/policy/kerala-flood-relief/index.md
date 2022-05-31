@@ -8,6 +8,8 @@ Categories: ["Policy"]
 
 # What are optimal ways to donate for Kerala Flood Relief and Rescue if you live abroad?
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/what-are-optimal-ways-to-donate-for-kerala-flood-relief-and-rescue-if-you-live-abroad-71df5ae196c8?source=---------5-----------------------)
+
 Here we’ve made a list of options for those based in the US/outside India to contribute to relief in Kerala floods. Each of them have been verified with a US based card. Do share more in links in comments, if you’re aware and we’ll analyse/verify/update.
 
 **1\. The Chief Minister’s Distress Relief Fund website** has recently added the functionality to accept international cards

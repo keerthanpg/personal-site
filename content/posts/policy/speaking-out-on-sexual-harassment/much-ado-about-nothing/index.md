@@ -8,6 +8,8 @@ Categories: ["Policy"]
 
 # Speaking out on Sexual Harassment
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/speaking-out-on-sexual-harassment-59cb1a77218e?source=---------1-----------------------)
+
 [#metoo](https://www.facebook.com/hashtag/metoo?source=feed_text&story_id=1850146968347123).
 
 When it has happened to Elizabeth Warren, why should you be reluctant to disclose.

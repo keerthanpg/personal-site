@@ -8,6 +8,8 @@ Categories: ["Policy"]
 
 # A note of thanks
 
+Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/a-note-of-thanks-3012bbeb8b3f?source=---------4-----------------------)
+
 “How strongly must one love knowing that you are unconvicted felons in the eyes of the law” — Menaka Guruswamy to bench of judges at Supreme Court, July 11 2018, during the hearing of petitions against section 377.
 
 {{< rawhtml >}}
