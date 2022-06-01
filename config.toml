@@ -8,6 +8,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "keerthanapg"
+pluralizelisttitles = false
 
 [params]
 author = "Keerthana Gopalakrishnan"
