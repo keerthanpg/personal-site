@@ -6,6 +6,10 @@ draft: true
 ## Bill Gates
 ### My rating 5/5
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 30%; float: right; padding-left: 2rem;"  src="../assets/billgates_climate.jpg" />
+{{< /rawhtml >}}
+
 
 This book was released around a month ago and is the most up to date compilation of issues and challenges surrounding climate change. What I love about this book is that it is markedly different in tone than what many climate activists advise - no angry rhetorics or morally high sounding stances. Crossing the Atlantic in a boat is not an option for everyone and asking the global population to give up on meat is simply non-practical. Bill Gates accepts the fact that global progress involves increasing need for energy and accepts that, especially in developing countries people will need to use more energy as they get richer and that this is a welcome thing. However, it is still an important goal to get to zero and there are practical ways to achieving that. The first few chapters discuss the status quo on how bad our emissions are - 51 billion tons of CO2 a year- and how exactly we cause them, segmented by our needs for cooling/warming, transportation, manufacturing, agriculture and electricity. He also discusses technological innovations in each of these segments rated on their feasibility towards reducing emissions. He ends the book with the role governments and individuals can take towards lowering climate change.
 

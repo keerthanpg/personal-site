@@ -2,6 +2,8 @@
 title: "My Happy Orchid"
 date: 2021-10-30T17:37:56-07:00
 draft: false
+
+categories: ["Poem"]
 ---
 
 I have a happy orchid plant\
@@ -62,13 +64,3 @@ That I’m determined to protect at every cost\
 Compounds to abundance from undiscovered prospects\
 Like relentlessly blooming beautiful flowers\
 On my beaming orchid plant in the sun.
-
-
-
-
-
-
-
-
-
-

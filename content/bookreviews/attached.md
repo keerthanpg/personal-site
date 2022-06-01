@@ -6,6 +6,10 @@ draft: true
 ## Amir Levine, Rachel S F Heller
 ### My rating: 4/5
 
+{{< rawhtml >}}
+<img class="special-img-class" style="height: 100%; width: 30%; float: right; padding-left: 2rem;"  src="../assets/attached.jpg" />
+{{< /rawhtml >}}
+
 Attached is a book on relationships, especially romantic relationships. It explains the evolutionary advantages to having a partner and how childhood experiences trigger different attachment styles. 
 
 Broadly, the book proposes that there are three types of attachment styles: anxious, avoidant and secure. The former two roughly account for a quarter of the population each and the latter accounts for about half. 
