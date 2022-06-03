@@ -118,24 +118,6 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/keerthanpg/"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/keerthanapg/"
-
-[[params.social]]
-name = "Facebook"
-icon = "fa fa-facebook"
-weight = 2
-url = "https://facebook.com/keertygw/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@keerthanagopalakrishnan"
-
 [languages.en]
 languageName = "English"
 
