@@ -5,7 +5,7 @@ draft: false
 
 Categories: ["Technology"]
 ---
-Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/what-did-i-learn-do-differently-this-internship-5050aeea943f?source=---------2-----------------------)
+Originally posted [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/what-did-i-learn-do-differently-this-internship-5050aeea943f?source=---------2-----------------------)
 
 I spent the summer in the San Francisco Bay area, Sunnyvale to be precise. I was interning at Mercedes Benz R&D and had a significantly different(good different) internship experience!
 
