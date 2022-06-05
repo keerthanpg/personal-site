@@ -1,5 +1,5 @@
 ---
-title: "In Search For You"
+title: "In Search of You"
 date: 2019-02-18T17:37:56-07:00
 draft: false
 
