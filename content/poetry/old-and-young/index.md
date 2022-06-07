@@ -8,7 +8,10 @@ categories: ["Poem"]
 Originally posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/old-and-young-5bddb4a843a4?source=---------14-----------------------)
 
 {{< rawhtml >}}
-<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpeg" />
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
+    <img src="./image.jpeg" />
+    Sourced from Google Images</a></a>
+</div>
 {{< /rawhtml >}}
 
 Hopping over puddles, in a little pink frock  

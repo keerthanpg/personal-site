@@ -8,12 +8,12 @@ categories: ["Poem"]
 
 Originally posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/moods-of-weather-f5e165ccaca1?source=---------7-----------------------)
 
-{{< rawhtml >}}
 
-<figure style="height: 100%; width: 45%; float: right; padding-left: 2rem;">
-<img class="special-img-class"   src="./image.jpg" />
-<figcaption><a href="https://pixabay.com/en/winter-snowy-firs-christmas-cold-1675197/">Image Reference</a></figcaption>
-</figure>
+{{< rawhtml >}}
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
+    <img src="./image.jpeg" />
+    <a href="https://pixabay.com/en/winter-snowy-firs-christmas-cold-1675197/">Image Reference</a>
+</div>
 {{< /rawhtml >}}
 
 Shedding leaves and pretenses  

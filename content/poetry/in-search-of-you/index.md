@@ -9,14 +9,13 @@ categories: ["Poem"]
 Originally posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/in-search-of-you-2a87238363d9?source=---------4-----------------------)
 
 {{< rawhtml >}}
-
-<figure  style="height: 100%; width: 50%; float: right; padding-left: 2rem;" >
-<img class="special-img-class" src="./image.jpeg " />
-<figcaprion>From Google Images</figcaption>
-</figure>
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
+    <img src="./image.jpeg" /> 
+    <br />
+    Sourced from Google Images 
+</div>
 {{< /rawhtml >}}
 
-From Google Images
 
 I walked down the road
 

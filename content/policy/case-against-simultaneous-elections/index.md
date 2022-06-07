@@ -13,9 +13,11 @@ Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%B
 During his address on National Law Day 2017, PM Narendra Modi reiterated the push for implementing simultaneous elections in India, where Lok Sabha elections and Assembly polls of all states will be synced to happen once in 5 years, citing administrative difficulties and cost to exchequer. In the later half of this year, there has been much discussion about it, with Nitish Kumar [2], the Vice President [3], the controversial India Foundation [4] and other allies in support and regional parties and the left voicing their protest [5]. It is speculated that this bill will come up in the winter session of the parliament, and might be the next big reform of Modi.
 
 {{< rawhtml >}}
-<div style="height: 100%; width: 45%; float: right; padding-left: 2rem; text-align: center;">
-    <img src="./election.png" />
-    Cover of an India Foundation event on the same topic <a href="http://www.indiafoundation.in/symposium-on-one-nation-one-election/">12</a>
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
+
+<img src="./election.png" />
+<br />
+<a href="http://www.indiafoundation.in/symposium-on-one-nation-one-election/">Cover of an India Foundation event on the same topic</a>
 </div>
 {{< /rawhtml >}}
 

@@ -6,18 +6,20 @@ draft: false
 Categories: ["Policy"]
 ---
 
-# Why the Sabarimala entry issue is personal?: Thoughts from your run-of-the-mill Malayali woman
+.. and why this affects every Indian woman
+
 
 Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/why-the-sabarimala-entry-issue-is-personal-thoughts-from-your-run-of-the-mill-malayali-woman-9e84ed6b128c?source=---------0-----------------------)
 
-.. and why this affects every Indian woman
 
 {{< rawhtml >}}
-<div style="height: 100%; width: 40%; float: right; padding-left: 2rem; text-align: center;">
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
     <img src="./sabarimala-2.jpeg" />
-    Source: <a href="https://www.facebook.com/photo.php?fbid=1940526586040423&set=a.137234033036363&type=3&theater">12</a>
+    <br />
+<a href="https://www.facebook.com/photo.php?fbid=1940526586040423&set=a.137234033036363&type=3&theater">Source</a>
 </div>
 {{< /rawhtml >}}
+
 
 On September 28th, 2018, the Supreme Court of India ruled that women be granted entry at Sabarimala [6]. Among other things one should note:
 

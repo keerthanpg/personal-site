@@ -6,8 +6,6 @@ draft: false
 Categories: ["Policy"]
 ---
 
-# Much Ado about Nothing
-
 Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/much-ado-about-nothing-1c7e121f985c?source=---------2-----------------------)
 
 _A closer inspection of the ‘Rally for Rivers’ fanfare_
@@ -20,12 +18,16 @@ They also support inter-linking of rivers, which seems like a disastrous idea an
 
 Many slogans came up, emotionally compelling ones like ‘_Everyone who uses water in India should support Rally for Rivers_’, but to what end on what basis? No science or evidence-based solutions came up. Large parties and demonstrations were held where political biggies came to speak. My question is this: has a single bill been passed or introduced or drafted to help rivers?
 
+
+
 {{< rawhtml >}}
-<div style="height: 100%; width: 48%; float: right; padding-left: 2rem; text-align: center;">
+<div style="height: 100%; width: 100%; float: center; text-align: center;">
     <img src="./ado-nothing.jpeg" />
-    Powerful friends: Inaugurating statues <a href="http://postcard.news/lovely-gesture-prime-minister-modi-just-mindblowing/">4</a>
+    <br />
+<a href="http://postcard.news/lovely-gesture-prime-minister-modi-just-mindblowing/">Powerful friends: Inaugurating statues</a>
 </div>
 {{< /rawhtml >}}
+
 
 Lots of pseudo-scientific BS was churned out in this process, apparently justified as ancient Indian wisdom. For example, Sadhguru claims that the left hand is feminine( to be kept gentle, of course) and right hand is masculine [5], in a justification embedded with crude statements like “providing for yourself and people around you is essentially a masculine process”(not true in a lot of species where mothers provide). He spoke at IITM, one of our temples of science, where he claimed that water has memory [6]. He stated that “if knowledge comes from the east it is superstition if it comes from the west it is science”, he forgets that a fundamental qualification for something to be called science is that it is based in rationality, derived from the fundamental laws of nature and results are repeatable.
 
