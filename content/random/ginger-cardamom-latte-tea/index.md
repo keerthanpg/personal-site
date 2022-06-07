@@ -5,9 +5,6 @@ draft: false
 
 categories: ["Cooking"]
 ---
-
-# Recipe: Ginger-Cardamom Latte Tea
-
 Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-ginger-cardamom-latte-tea-436fef1335b3?source=---------3-----------------------)
 
 It’s healthy, tasty and complements well when you’re working on tough assignments :P

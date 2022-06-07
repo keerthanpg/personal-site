@@ -5,9 +5,6 @@ draft: false
 
 Categories: ["Fiction"]
 ---
-
-# An eventful dream
-
 Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/an-eventful-dream-58207d6f4253?source=---------1-----------------------)
 
 This is an account of a dream I had today:
