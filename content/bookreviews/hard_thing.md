@@ -1,6 +1,6 @@
 ---
 title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
-date: 2021-12-17
+date: 2016-12-17
 draft: true
 ---
 ## Ben Horowitz

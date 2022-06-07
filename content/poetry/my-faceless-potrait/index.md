@@ -9,10 +9,7 @@ categories: ["Poem"]
 Originally posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/my-faceless-portrait-648d875a66ac?source=---------3-----------------------)
 
 {{< rawhtml >}}
-<figure style="height: 100%; width: 45%; float: right; padding-left: 2rem;" >
-<img class="special-img-class"  src="./image.jpg" />
-<figcation>Source: <a href="https://www.artsy.net/artwork/aican-faceless-portrait-of-a-queen">Google Images </a></figcation>
-</figure>
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpg" />
 {{< /rawhtml >}}
 
 I have  

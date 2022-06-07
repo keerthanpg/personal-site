@@ -1,6 +1,6 @@
 ---
 title: "Recipe: Horse gram, Kale and Sprouts salad with Rice"
-date: 2022-03-21T17:37:56-07:00
+date: 2020-03-21T17:37:56-07:00
 draft: false
 
 Categories: ["Cooking"]

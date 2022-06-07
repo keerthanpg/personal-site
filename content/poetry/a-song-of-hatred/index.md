@@ -9,12 +9,10 @@ categories: ["Poem"]
 Originally Written [here](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/a-song-of-hatred-6c542f52179d?source=---------16-----------------------)
 
 {{< rawhtml >}}
-
-<figure style="height: 100%; width: 50%;" >
-<img class="special-img-class"  src="./image.jpeg" />
-<figcaption>Photograph by Kevin Frayer</figcaption>
-</figure>
+<img class="special-img-class" style="height: 100%; width: 50%;"  src="./image.jpeg" />
 {{< /rawhtml >}}
+
+Photograph by Kevin Frayer [1]
 
 The photographer Kevin Frayer explains the scene: “I arrived to Cox’s Bazar, Bangladesh, in mid-September, a few weeks into the #Rohingya crisis. I was looking for places to photograph food aid because there was such a need for it and so little of it around. I was in an area where there was a crowd of people surrounding a truck. The scene was quite chaotic; people were shouting and reaching because they were obviously distraught and hungry. There was a lot of pushing in the crowd and I wanted to get above it, so I climbed on the truck. That’s when I saw this small boy. He had just pulled himself up onto the truck and he was weeping. I couldn’t hear much because the scene was so loud, but at one point the boy reached out his hands, begging to the man standing over the food. Then, he wrapped his arms around the man’s legs, clinging to him. I was totally struck by it: he had clawed his way onto the truck in complete desperation. I wish I knew more about him, but he disappeared into the chaos of the moment.”
 

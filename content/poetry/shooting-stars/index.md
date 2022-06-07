@@ -5,15 +5,10 @@ draft: false
 
 categories: ["Poem"]
 ---
-
 Originally posted on [Medium](https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/shooting-stars-8f79fac5c30d?source=---------5-----------------------)
 
 {{< rawhtml >}}
-
-<figure style="height: 100%; width: 45%; float: right; padding-left: 2rem;">
-<img class="special-img-class"   src="./image.jpeg" />
-<figcaption>Clicked by Tom Eliasson, from Google Images</figcaption>
-</figure>
+<img class="special-img-class" style="height: 100%; width: 45%; float: right; padding-left: 2rem;"  src="./image.jpeg" />
 {{< /rawhtml >}}
 
 If the moment is beautiful, is consistency necessary  
