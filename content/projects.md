@@ -3,6 +3,11 @@ title: "Projects"
 date: 2021-10-13T17:37:56-07:00
 draft: true
 ---
+
+### SayCan: Grounding Language in Robotic Affordances
+- Using large language models for planning in robotics
+- [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691)
+
 ### Self Driving Data Visualization
 - Data visualization for status quo on the race to build the self driving car.
 - Demos - [2020](https://keerthanapg.com/stop-the-trolley/), [2019](https://keerthanapg.com/stop-the-trolley/2019/)

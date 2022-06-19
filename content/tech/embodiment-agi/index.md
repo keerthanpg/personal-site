@@ -70,3 +70,5 @@ In a world built by and designed for humans, an intelligence that is agnostic to
 _I’d like to acknowledge Ben Mann, Otavio Good, Jared Kaplan and Vivek Aithal for valuable discussions and Kanishka Rao, Vincent Vanhoucke and Alex Zirbel for providing feedback and proofreading._
 \
 _To engage with my ideas, add me on [Twitter](https://twitter.com/keerthanpg)._
+
+{{ template "_internal/disqus.html" . }}
