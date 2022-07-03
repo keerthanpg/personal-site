@@ -6,7 +6,7 @@ draft: true
 
 ### SayCan: Grounding Language in Robotic Affordances
 - Using large language models for planning in robotics
-- [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691)
+- [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691) - Best paper at RSS 2022 Scaling Robot Learning Workshop
 
 ### Self Driving Data Visualization
 - Data visualization for status quo on the race to build the self driving car.
