@@ -71,4 +71,4 @@ _I’d like to acknowledge Ben Mann, Otavio Good, Jared Kaplan and Vivek Aithal 
 \
 _To engage with my ideas, add me on [Twitter](https://twitter.com/keerthanpg)._
 
-{{ template "_internal/disqus.html" . }}
+{{< disqus >}}
