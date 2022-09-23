@@ -1,5 +1,7 @@
 ---
 title: "Embodiment is Indispensable for AGI"
+description: ""
+images: ["/tech/embodiment-agi/bot_reading.jpeg"]
 date: 2022-06-07T00:00:01-00:00
 draft: false
 
