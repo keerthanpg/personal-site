@@ -1,5 +1,7 @@
 ---
 title: "Embodiment is Indispensable for AGI"
+description: ""
+images: ["/tech/embodiment-agi/bot_reading.jpeg"]
 date: 2022-06-07T00:00:01-00:00
 draft: false
 
@@ -71,4 +73,4 @@ _I’d like to acknowledge Ben Mann, Otavio Good, Jared Kaplan and Vivek Aithal 
 \
 _To engage with my ideas, add me on [Twitter](https://twitter.com/keerthanpg)._
 
-{{ template "_internal/disqus.html" . }}
+{{< disqus >}}
