@@ -1,5 +1,5 @@
 ---
-title: "Adventures of Roomba: Tales of a Sentient Vacuum Cleaner"
+title: "Adventures of Roomba: Tales of a Sentient Vacuum Cleaner II"
 description: ""
 images: ["/tech/vacuum-cleaner-2/robot.png"]
 date: 2022-09-23T00:00:01-00:00
