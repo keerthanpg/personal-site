@@ -6,7 +6,8 @@ draft: true
 
 ### SayCan: Grounding Language in Robotic Affordances
 - Using large language models for planning in robotics
-- [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691) - Best paper at RSS 2022 Scaling Robot Learning Workshop
+- [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691) - Best paper at RSS 2022 Scaling Robot Learning Workshop, Oral at CoRL 2022
+
 
 ### Self Driving Data Visualization
 - Data visualization for status quo on the race to build the self driving car.
@@ -26,7 +27,6 @@ draft: true
 
 
 ### CubeRover: A Private 2kg Rover for Lunar Exploration 
-
 - Helped build a 2kg rover to explore the moon as part of a NASA-CMU-Astrobotic collaboration
 - Adapted ORBSLAM for localization and augmented radio communication to send images and interrupts between rover and lander
 - Media coverage : [DesignWorld - Next generation of moon rovers](https://www.designworldonline.com/next-generation-of-moon-rovers/), [NASA CubeRover](https://www.nasa.gov/feature/commercial-cuberover-test-shows-how-nasa-investments-mature-space-tech)
@@ -39,8 +39,8 @@ draft: true
 
 
 ### Decriminalising LGBTQ existence in India
-- Prior to September 2018, being LGBTQ made one an automatic criminal given that "unnatural sex" was felonious
-- Was a petitioner in the legal challenge against section 377 of the Indian constitution in the Supreme Court leading to historic verdict decriminalizing alternative sexuality in India
+- Prior to September 2018, identifying as LGBTQ made one an automatic criminal given that "unnatural sex" was felonious
+- Petitioned the Supreme Court in the legal challenge against section 377 of the Indian constitution leading to historic verdict decriminalizing alternative sexuality in India
 - Media Coverage : [NDTV National Interview](https://www.youtube.com/watch?v=iq8T6rfEtCU), [Print](https://www.ndtv.com/india-news/iitians-go-to-top-court-demand-law-criminalising-gay-sex-be-scrapped-1851984)
 
 

@@ -5,7 +5,8 @@ draft: false
 ---
 Hi
 
-I am Keerthana! I am a roboticist at Google Brain: by day I convert coffee into code for training robots to do everyday tasks. I can talk endlessly about artificial intelligence and self-driving.  I am also passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality. 
+I am Keerthana! I am a roboticist at Google Brain: I spend a lot of my time thinking about how to get robots to do everyday tasks with end to end machine learning. I am passionate about building human-level self-improving intelligence in bits and atoms. 
 
+If you don't shut me up, I will talk endlessly about robotics, artificial intelligence and self-driving. Currently much of my free time is spent  authoring a textbook on Machine Learning for Robotics with OReilly Media. I am passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality. 
 
-A part of my day is spent playing with my pug puppy Kiwi, who is monstrosity and innocence rolled into one. I live in San Francisco and in my free time love to read, write, work out, ski, paint, photograph and play board games. Other life skills include laughing at my own jokes, writing creepy and unsettling poetry and wondering about existential issues. 
+I currently live in San Francisco. Among other things, I played chess at the national level as a 10 year old, can speak four languages and successfully petitioned the Indian Supreme Court to change the constitution and legalise alternate sexuality in India. I am the lucky mother of an adorable pug puppy, Kiwi, who is monstrosity and innocence rolled into one. I love to find humor in everyday things, write creepy and unsettling poetry and pace the hallways at night worrying about existential issues. 
