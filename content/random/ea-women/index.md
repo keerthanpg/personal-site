@@ -5,6 +5,8 @@ draft: false
 
 categories: ["Random"]
 ---
+_Edit: This was cross posted to EA forum, and is a heavily downvoted post in their community. You can see the discussion [here](https://forum.effectivealtruism.org/posts/NacFjEJGoFFWRqsc8/women-and-effective-altruism
+)_
 
 A lot has been talked about SBF/FTX/EA but [this](https://www.businessinsider.com/ftx-inner-circle-all-dated-each-other-in-bahamas-report-2022-11) coverage reminds me that is time to talk about the toxicity of the culture within EA communities, especially as it relates to women. 
 
