@@ -4,6 +4,10 @@ date: 2021-10-13T17:37:56-07:00
 draft: true
 ---
 
+### Robotics Transformer(RT-1) for Real-World Control at Scale
+- Adapting transformers for fast and scalable robot manipulation
+- [Paper](https://arxiv.org/abs/2212.06817), [Github](https://github.com/google-research/robotics_transformer), [Google AI Blog](https://ai.googleblog.com/2022/12/rt-1-robotics-transformer-for-real.html)
+
 ### SayCan: Grounding Language in Robotic Affordances
 - Using large language models for planning in robotics
 - [Demos](https://say-can.github.io/), [Paper](https://arxiv.org/abs/2204.01691) - Best paper at RSS 2022 Scaling Robot Learning Workshop, Oral at CoRL 2022
