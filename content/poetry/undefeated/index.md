@@ -45,12 +45,14 @@ I am the only constant that needs to be
 Like goddess Lakshmi that sits on lotuses \
 Growing amidst the dirt while rising above it all \
 Untainted \
-Powerful while still feminine and beautiful \
+Powerful while feminine and beautiful \
 My freedom is absolute, \
 My autonomy over my body sacrosanct and untouched \
 Wounds are laid and scars are healed, so many times \
 I become unbroken and whole \
 Over and over again
 
+No matter how many times it is doused \
+The fire in my heart will never be quenched \
 No matter how many times I fail \
-I will never, ever, be defeated..
+I will never be defeated..
