@@ -1,7 +1,7 @@
 ---
 title: "The Bets and Business of Self Driving"
 description: ""
-images: ["/tech/self-driving-bets/source.gif"]
+images: ["/tech/self-driving-bets/bets.png"]
 date: 2023-01-02T00:00:01-00:00
 draft: false
 
@@ -11,10 +11,6 @@ Categories: ["Random"]
 _Opinions presented in this article are that of the author alone and does not represent those of her employer._
 
 As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week [Waymo](https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html) and [Cruise](https://twitter.com/kvogt/status/1605234916043939840) announced they are scaling to 3+ cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin. Rides are now available to the public for charge and I myself [took a driverless ride in a Cruise](https://twitter.com/keerthanpg/status/1591355457616379905) despite not working for the company.
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 {{< rawhtml >}}
@@ -43,7 +39,7 @@ It is too soon to conclude if lidar is absolutely required for l5 autonomy or if
 {{< /rawhtml >}}
 
 
-### Robotaxis vs personal cars business models
+### Robotaxis vs personal cars
 
 While the tech starting to scale, the business of making money with robotaxis is still an open question. The unit economics of HD maps + sensor suite is yet to be worked out even as price of sensors and R&D costs goes down as economics of scale starts to manifest. If a cruise car takes [$300k](https://www.businessinsider.com/google-self-driving-car-sensor-cost-2012-9) to build today, it has to execute a lot of taxi rides to end up cash flow positive. But robotaxi companies have a much higher profit potential than traditional taxi companies like Uber/Lyft. The costliest part of a traditional taxi is the human driver. For every dollar paid for an Uber ride, [75 cents goes to the driver](https://www.stilt.com/blog/2020/02/how-much-does-uber-pay/). Despite this cut, the average driver barely makes above the minimum wage. 
 
