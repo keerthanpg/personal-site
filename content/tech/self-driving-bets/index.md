@@ -14,8 +14,27 @@ As the new year drives in, let’s look back at some of the technological bets i
 
 
 {{< rawhtml >}}
+<style>
+    @media only screen and (min-width: 1025px) {
+        .mobile-only {
+            display:none !important;
+        }
+    } 
+    @media only screen and (max-width: 1026px) {
+        .desktop-only {
+            display:none !important;
+        }
+    } 
+</style>
+
+<center> <img class="special-img-class desktop-only" style="height: 50%; width: 40%; float: center;"  src="./source.gif " /></center>
+
+<center> <img class="special-img-class mobile-only" style="height: 100%; width: 100%; float: center;"  src="./source.gif " /></center>
+{{< /rawhtml >}}
+
+
+{{< rawhtml >}}
 <div style="height: 100%; width: 80%; float: center; padding-left: 15rem; text-align: center;">
-    <img src="./source.gif" />   
     <a href="https://in.pinterest.com/pin/428827195751087037/">Source</a>
 </div>
 {{< /rawhtml >}}
@@ -29,11 +48,27 @@ This rapid expansion is a point in favor of betting to build L5 autonomy directl
 
 It is too soon to conclude if lidar is absolutely required for l5 autonomy or if vision only approaches can still get there. A major consideration for not using lidar was cost of the device and viability of large scale data farming. Having a vision only stack allows one to keep the cost of the car cheap, as well as sell it to a wider base of customers and use that data to train self driving systems. Compared to the last decade when these bets were placed, lidar costs have fallen faster than anyone anticipated, so much that even the latest iphones 13 and 14 have one, allowing for sleek 3d imaging and low light photography. Compared to an iphone, a self driving car operates in a domain of higher velocities and very low lighting and requires a high bar of safety on account of transporting humans. In retrospect lidar may have been the right bet and this may be the bitter lesson of self driving. 
 
+{{< rawhtml >}}
+<style>
+    @media only screen and (min-width: 1025px) {
+        .mobile-only {
+            display:none !important;
+        }
+    } 
+    @media only screen and (max-width: 1026px) {
+        .desktop-only {
+            display:none !important;
+        }
+    } 
+</style>
+<center> <img class="special-img-class desktop-only" style="height: 50%; width: 40%; float: center;"  src="./lidar.png " /></center>
+
+<center> <img class="special-img-class mobile-only" style="height: 100%; width: 100%; float: center;"  src="./lidar.png " /></center>
+{{< /rawhtml >}}
 
 
 {{< rawhtml >}}
-<div style="height: 100%; width: 80%; float: center; padding-left: 15rem; text-align: center;">
-    <img src="./lidar.png" />   
+<div style="height: 100%; width: 80%; float: center; padding-left: 15rem; text-align: center;"> 
     <a href="https://www.avvir.io/blog-posts/the-ipad-pro-an-inflection-point-for-reality-capture">Source</a>
 </div>
 {{< /rawhtml >}}
