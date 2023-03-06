@@ -40,7 +40,7 @@ maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
-customCSS = []
+customCSS = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
 # Custom SCSS
 customSCSS = []
 # Custom JS
@@ -118,10 +118,11 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/keerthanpg/"
 
-[[params.socialIcons]]
-    icon = "ai ai-google-scholar"
-    title = "Scholar"
-    url = "https://scholar.google.com/"
+[[params.social]]
+name = "Google Scholar"
+icon = "ai ai-google-scholar"
+weight = 4
+url = "https://scholar.google.com/"
 
 [languages.en]
 languageName = "English"
