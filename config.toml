@@ -40,7 +40,7 @@ maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
-customCSS = []
+customCSS = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
 # Custom SCSS
 customSCSS = []
 # Custom JS
