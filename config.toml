@@ -121,7 +121,7 @@ url = "https://twitter.com/keerthanpg/"
 [[params.socialIcons]]
     icon = "ai ai-google-scholar"
     title = "Scholar"
-    url = "https://scholar.google.com/"
+    url = "https://scholar.google.com/citations?user=uemlfQYAAAAJ"
 
 [languages.en]
 languageName = "English"
@@ -153,15 +153,20 @@ url = "random/"
 
 [[languages.en.menu.main]]
 name = "Tech"
-weight = 7
+weight = 8
 url = "tech/"
 
 [[languages.en.menu.main]]
+name = "Talks"
+weight = 9
+url = "talks/"
+
+[[languages.en.menu.main]]
 name = "Book Reviews"
-weight = 8
+weight = 10
 url = "bookreviews/"
 
 [[languages.en.menu.main]]
 name = "Photography"
-weight = 9
+weight = 11
 url = "https://500px.com/p/keerthanpg?view=photos"
