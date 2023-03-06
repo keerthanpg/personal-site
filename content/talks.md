@@ -9,64 +9,15 @@ draft: false
 
 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model
 
-{{< rawhtml >}}
-<style>
-    @media only screen and (min-width: 1025px) {
-        .mobile-only {
-            display:none !important;
-        }
-    } 
-    @media only screen and (max-width: 1026px) {
-        .desktop-only {
-            display:none !important;
-        }
-    } 
-</style>
-
-<iframe class="desktop-only" width="640" height="360" float="center"
-src="https://www.youtube.com/embed/6Zoa_UZ_xQs">
-</iframe>
-
-<iframe class="mobile-only" width="320" height="180" float="center"
-src="https://www.youtube.com/embed/6Zoa_UZ_xQs">
-</iframe>
-
-{{< /rawhtml >}}
-
+{{< youtube 6Zoa_UZ_xQs >}}
 
 ### Carnegie Mellon University, Dec 2022
 
 Hosted by Prof Deepak Pathak, we talk about the bitter lesson and robotics transformer, starts at 56:54
-
-{{< rawhtml >}}
-
-<iframe class="desktop-only" width="640" height="360" float="center"
-src="https://cmu.zoom.us/rec/share/yFzJ6VA8nDsTJImQhxkNM1ltfQExMUW0-6z4vkexP5v1wUzzSeSyjCYOv0N_FS8T.88JtVMm03A_cnQQK?startTime=1669654610000">
-</iframe>
-
-<iframe class="mobile-only" width="340" height="180" float="center"
-src="https://cmu.zoom.us/rec/share/yFzJ6VA8nDsTJImQhxkNM1ltfQExMUW0-6z4vkexP5v1wUzzSeSyjCYOv0N_FS8T.88JtVMm03A_cnQQK?startTime=1669654610000">
-</iframe>
-
-{{< /rawhtml >}}
-
+{{< video "https://cmu.zoom.us/rec/share/yFzJ6VA8nDsTJImQhxkNM1ltfQExMUW0-6z4vkexP5v1wUzzSeSyjCYOv0N_FS8T.88JtVMm03A_cnQQK?startTime=1669654610000" >}}
 
 ### University of Berkeley, Nov 2022
 
 Hosted by ML@Berkeley, the talk is titled "Using Language as a Connective Tissue for Robotics"
 
-{{< rawhtml >}}
-
-<iframe class="desktop-only" width="640" height="360" float="center"
-src="https://www.youtube.com/embed/11z1Rv7woPE">
-</iframe>
-
-<iframe class="mobile-only" width="320" height="180" float="center"
-src="https://www.youtube.com/embed/11z1Rv7woPE">
-</iframe>
-
-{{< /rawhtml >}}
-
-
-
-
+{{< youtube 11z1Rv7woPE >}}

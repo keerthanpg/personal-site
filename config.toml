@@ -118,10 +118,11 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/keerthanpg/"
 
-[[params.socialIcons]]
-    icon = "ai ai-google-scholar"
-    title = "Scholar"
-    url = "https://scholar.google.com/citations?user=uemlfQYAAAAJ"
+[[params.social]]
+icon = "ai ai-google-scholar"
+title = "Google Scholar"
+weight = 4
+url = "https://scholar.google.com/citations?user=uemlfQYAAAAJ"
 
 [languages.en]
 languageName = "English"
