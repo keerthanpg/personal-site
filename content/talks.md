@@ -17,7 +17,7 @@ Hosted by Nathan Labenz and Erik Torenberg
 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Zoa_UZ_xQs?start=1238" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Zoa_UZ_xQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 ### Carnegie Mellon University, Dec 2022
@@ -29,4 +29,6 @@ Hosted by Prof Deepak Pathak, we talk about the bitter lesson and robotics trans
 
 Hosted by ML@Berkeley, the talk is titled "Using Language as a Connective Tissue for Robotics"
 
-{{< youtube 11z1Rv7woPE >}}
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11z1Rv7woPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< /rawhtml >}}
