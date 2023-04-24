@@ -4,12 +4,21 @@ date: 2021-03-21T17:37:56-07:00
 draft: false
 ---
 
+### Cognitive Revolution Podcast, March 2023
+
+Hosted by Nathan Labenz and Erik Torenberg
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5tlQhgz-xuY?start=1238" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 ### ML Collective, Deep Learning Classics and Trends, March 2023
 
 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model
 
-{{< youtube 6Zoa_UZ_xQs >}}
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Zoa_UZ_xQs?start=1238" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 ### Carnegie Mellon University, Dec 2022
 
