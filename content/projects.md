@@ -3,8 +3,14 @@ title: "Projects"
 date: 2021-10-13T17:37:56-07:00
 draft: true
 ---
+For a full list of publications, check [my google scholar page](https://scholar.google.com/citations?user=uemlfQYAAAAJ).
 
-### Robotics Transformer(RT-1) for Real-World Control at Scale
+### RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+- Training robots on internet scale image/text datasets
+- [Paper](https://arxiv.org/abs/2307.15818), [Github](https://robotics-transformer2.github.io/)
+- Covered on the front page of [New York Times](https://static01.nyt.com/images/2023/07/29/nytfrontpage/scan.pdf)
+
+### RT-1: Robotics Transformer for Real-World Control at Scale
 - Adapting transformers for fast and scalable robot manipulation
 - [Paper](https://arxiv.org/abs/2212.06817), [Github](https://github.com/google-research/robotics_transformer), [Google AI Blog](https://ai.googleblog.com/2022/12/rt-1-robotics-transformer-for-real.html)
 
@@ -42,7 +48,7 @@ draft: true
 - [Code](https://github.com/keerthanpg/Hackathon_Vehicle_ID)
 
 
-### Decriminalising LGBTQ existence in India
+### Decriminalising LGBTQ in India
 - Prior to September 2018, identifying as LGBTQ made one an automatic criminal given that "unnatural sex" was felonious
 - Petitioned the Supreme Court in the legal challenge against section 377 of the Indian constitution leading to historic verdict decriminalizing alternative sexuality in India
 - Media Coverage : [NDTV National Interview](https://www.youtube.com/watch?v=iq8T6rfEtCU), [Print](https://www.ndtv.com/india-news/iitians-go-to-top-court-demand-law-criminalising-gay-sex-be-scrapped-1851984)
