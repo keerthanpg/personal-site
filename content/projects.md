@@ -5,10 +5,15 @@ draft: true
 ---
 For a full list of publications, check [my google scholar page](https://scholar.google.com/citations?user=uemlfQYAAAAJ).
 
+### AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
+- Orchestrating robotics agents for real world operation using a Robot Constitution
+- [Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf), [Website](https://auto-rt.github.io/)
+- [Forbes](https://www.forbes.com/sites/lesliekatz/2024/01/10/google-robot-constitution-inspired-by-asimov-declares-bots-cant-hurt-humans/), [The Verge](https://www.theverge.com/2024/1/4/24025535/google-ai-robot-constitution-autort-deepmind-three-laws), [Business Insider](https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1)
+
 ### RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
 - Training robots on internet scale image/text datasets
-- [Paper](https://arxiv.org/abs/2307.15818), [Github](https://robotics-transformer2.github.io/)
-- Covered on the front page of [New York Times](https://static01.nyt.com/images/2023/07/29/nytfrontpage/scan.pdf)
+- [Paper](https://arxiv.org/abs/2307.15818), [Website](https://robotics-transformer2.github.io/)
+- Covered on the front page of [New York Times](https://static01.nyt.com/images/2023/07/29/nytfrontpage/scan.pdf), [Forbes](https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/?sh=392b771465b9)
 
 ### RT-1: Robotics Transformer for Real-World Control at Scale
 - Adapting transformers for fast and scalable robot manipulation

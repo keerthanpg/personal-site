@@ -3,6 +3,17 @@ title: "Talks"
 date: 2021-03-21T17:37:56-07:00
 draft: false
 ---
+### Neural Information Processings (NeurIPS), 2023
+Speaker at [6th Workshop on Robot Learning](https://www.robot-learning.ml/2023/)
+
+{{< rawhtml >}}
+<iframe  width="560" height="315" src="https://docs.google.com/presentation/d/e/2PACX-1vQAJrcXQhi3cYwLTTnUEjJ_9UrYJsOstyfDPIqRLBWZnqc47MVHfBvcoOHRFTrJ1cBGg9_wf2iqo27Y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< /rawhtml >}}
+
+### International Conference on Machine Learning (ICML), 2023
+Panelist at [Interactive Learning with Implicit Human Feedback Workshop](https://interactive-learning-implicit-feedback.github.io/) moderated by Anca Dragan
+Watch recording of [Panel 1](https://icml.cc/virtual/2023/29854) \
+Watch recording of [Panel 2](https://icml.cc/virtual/2023/29862)
 
 ### Cognitive Revolution Podcast, March 2023
 

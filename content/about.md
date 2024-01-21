@@ -6,7 +6,7 @@ draft: false
 Hi
 
 
-I am Keerthana! I am a roboticist at Google Brain: I spend a lot of my time thinking about how to get scale robotics and build general purpose intelligence in the physical world. 
+I am Keerthana! I am a researcher at Google Deepmind: I spend a lot of my time thinking about how to get scale robotics and build general purpose intelligence in the physical world. 
 
 If you don't shut me up, I will talk endlessly about robotics, artificial intelligence and self-driving. Currently much of my free time is spent authoring a textbook on [Machine Learning for Robotics](https://www.oreilly.com/library/view/machine-learning-for/9781098134259/) with OReilly Media. I am passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality. 
 
