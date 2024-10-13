@@ -163,9 +163,14 @@ weight = 9
 url = "talks/"
 
 [[languages.en.menu.main]]
-name = "Book Reviews"
-weight = 10
-url = "bookreviews/"
+name = "Resume"
+weight = 9
+url = "https://drive.google.com/file/d/1U-n1jS46tL8dkm4s_AW6HAEVKMkQSwjW/view?usp=sharing"
+
+#[[languages.en.menu.main]]
+#name = "Book Reviews"
+#weight = 10
+#url = "bookreviews/"
 
 [[languages.en.menu.main]]
 name = "Photography"
