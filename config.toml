@@ -138,6 +138,11 @@ weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
+name = "Book"
+weight = 3
+url = "https://ai4robotics.org"
+
+[[languages.en.menu.main]]
 name = "Poetry"
 weight = 5
 url = "poetry/"
