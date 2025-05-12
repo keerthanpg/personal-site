@@ -8,9 +8,11 @@ Hi
 
 I am Keerthana! I do research at Google Deepmind: I spend a lot of my time thinking about how to get scale robotics and build general purpose intelligence in the physical world. 
 
-If you don't shut me up, I will talk endlessly about robotics, artificial intelligence and self-driving. I am currently authoring a textbook on Machine Learning for Robotics. I am passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality. 
+The topics where I think I am an expert at are robotics, artificial intelligence and self-driving. I just wrote and published a textbook on "AI for Robotics". I am on the look out for my next side project. 
 
-I currently live in San Francisco. Among other things, I played chess at the national level as a 10 year old, can speak four languages and successfully petitioned the Indian Supreme Court to change the constitution and legalise alternate sexuality in India. I am the lucky mother of an adorable pug puppy, Kiwi, who is monstrosity and innocence rolled into one. I love to find humor in everyday things, write creepy and unsettling poetry and pace the hallways at night worrying about existential issues. 
+I currently live in San Francisco. Among other things, I play a ton of speed chess, can speak four languages and I like enjoyng the sun in my backyard. I am the lucky mother of an adorable pug puppy, Kiwi, who is monstrosity and innocence rolled into one. 
+
+I am figuring out my new self everyday :)
 
 {{< rawhtml >}}
 <style>
