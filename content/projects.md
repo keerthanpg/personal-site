@@ -5,8 +5,13 @@ draft: true
 ---
 For a full list of publications, check [my google scholar page](https://scholar.google.com/citations?user=uemlfQYAAAAJ).
 
+### Gemini Robotics On-Device
+- Visual language action model that runs locally on device
+- [Blog](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
+- [TechCrunch](https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/)
+
 ### Gemini Robotics: Bringing AI into the Physical World
-- Visual language action model for robot control
+- Visual language action model for robot control based on Gemini VLM
 - [Paper](https://arxiv.org/pdf/2503.20020)
 - [MIT Technology Review](https://www.technologyreview.com/2025/03/12/1113178/gemini-robotics-uses-googles-top-language-model-to-make-robots-more-useful/), [Wired](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/), [TechCrunch](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/)
 
