@@ -5,6 +5,11 @@ draft: true
 ---
 For a full list of publications, check [my google scholar page](https://scholar.google.com/citations?user=uemlfQYAAAAJ).
 
+### Gemini Robotics: Bringing AI into the Physical World
+- Visual language action model for robot control
+- [Paper](https://arxiv.org/pdf/2503.20020)
+- [MIT Technology Review](https://www.technologyreview.com/2025/03/12/1113178/gemini-robotics-uses-googles-top-language-model-to-make-robots-more-useful/), [Wired](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/), [TechCrunch](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/)
+
 ### AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
 - Orchestrating robotics agents for real world operation using a Robot Constitution
 - [Paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf), [Website](https://auto-rt.github.io/)
